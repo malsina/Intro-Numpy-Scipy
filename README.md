@@ -10,3 +10,5 @@ After that please download the following files to start the workshop:
 
 - intro to numpy scipy.ipynb
 - data_wine.txt
+
+The first file is the Jupyter notebook that we will be using during the workshop. The second file is a text file that we will use to demonstrate the IO capabilites of Numpy.
